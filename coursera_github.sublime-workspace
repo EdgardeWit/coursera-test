@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github"
+	],
+	"file_history":
+	[
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture24/responsive-after.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture25/index.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture29/before/index.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture27/README.txt",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture23/media-queries-before.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture21/floating-before.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture17/origin.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture16/style-placement.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture16/style.css",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture15/pseudo-selectors-after.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture14/descendant-selector-before.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture14/ass1.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture14/descendant-selector-after.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture14/child-selector-before.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture14/element-with-class-before.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Nieuwe site/text/team/Bas Jansen.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Bas Jansen.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture10/images.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture08/html-entities-after.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/untitled folder/Bas Jansen.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/untitled folder/automatisch consolideren.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/html/index.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture04/doc-structure-after.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Tronios Sound Light.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Stamhuis.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Staatloterij.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Humanitas DMH.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Stichting Philadelphia Zorg.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Veldvest.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Summa College.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/soepel begroten.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Sara Lee.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Royal Lankhorst Euronete Group.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Roldo Rent.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Petra Weisenborn.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Peter Gutte.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Pepsico.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Opvoedpoli.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/ons bereiken.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Kaplan.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/ID College.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Getronics.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Vios van den Hondel.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Neurotherm.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Provincie Utrecht.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/eenvoudig rapporteren.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Edgar de Wit.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/CZ.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Bierens Incasso Advocaten",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/Van Caem Klerks Group.html",
+		"/Users/edgardewit/Documents/SugarSync/InfoAction/W/Website/Export oude site/automatisch consolideren.html",
+		"/Users/edgardewit/Downloads/templated-embellished/index.html",
+		"/Users/edgardewit/Downloads/templated-prism/index.html",
+		"/Users/edgardewit/Downloads/HalcyonDaysTemplate/index.html",
+		"/Users/edgardewit/Downloads/html5up-alpha/index.html",
+		"/Users/edgardewit/Documents/CloudStation/Website Infoaction/index.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture04/doc-structure-before.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture01/structure-only-after.html",
+		"/Users/edgardewit/Library/Application Support/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture01/structure-only-before.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-test/site/index.html",
+		"/Users/edgardewit/Documents/CloudStation/test_site/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1",
+			"\n      ",
+			" </",
+			"      <div>Col 1 </div>\n      <div>Col 2</div>\n      <div>Col 3</div>\n",
+			"Reinier.Spruit@oxfamnovib.nl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "coursera_github.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
