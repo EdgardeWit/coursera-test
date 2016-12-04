@@ -3,6 +3,30 @@
 	{
 		"selected_items":
 		[
+			[
+				"style",
+				"outline-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"font",
+				"font-style"
+			]
 		]
 	},
 	"buffers":
@@ -48,10 +72,17 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github"
+		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github",
+		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution",
+		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution/css",
+		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/old"
 	],
 	"file_history":
 	[
+		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution/css/styles.css",
+		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution/index.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution/test.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution/css/style.css",
 		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture24/responsive-after.html",
 		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture25/index.html",
 		"/Users/edgardewit/Documents/CloudStation/coursera/Coursera/examples/Lecture29/before/index.html",
@@ -117,7 +148,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -131,6 +162,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"border",
 			"1",
 			"\n      ",
 			" </",
@@ -164,7 +196,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -192,6 +224,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
 	},
 	"pinned_build_system": "Packages/User/chrome.sublime-build",
 	"project": "coursera_github.sublime-project",
@@ -235,7 +271,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 387.0,
+	"side_bar_width": 263.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
