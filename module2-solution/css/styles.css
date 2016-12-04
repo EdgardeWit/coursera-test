@@ -3,7 +3,7 @@
   margin: 0;
   padding: 5px;
   background-color: #374046;
-  font-family: "Helvetica", "Times New Roman", Times, serif;
+  font-family: "Helvetica Neue", "Times New Roman", Times, serif;
 
 }
 h1 {
@@ -13,6 +13,7 @@ h1 {
 }
 
 h2 {
+  color: #FFFFFF;
   margin-bottom: 15px;
   margin-left: 15px;
   width: 150px;
