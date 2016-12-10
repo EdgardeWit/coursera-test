@@ -4,12 +4,20 @@
 		"selected_items":
 		[
 			[
-				"style",
-				"outline-style"
+				"text",
+				"text-decoration"
 			],
 			[
-				"text",
-				"text-align"
+				"text-dec",
+				"text-decoration-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"style",
+				"outline-style"
 			],
 			[
 				"ba",
@@ -31,6 +39,25 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "module2-solution examples/css/solution.css",
+			"settings":
+			{
+				"buffer_size": 1560,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "* {"
+			}
+		},
+		{
+			"file": "module2-solution examples/index.html",
+			"settings":
+			{
+				"buffer_size": 4305,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -72,13 +99,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github",
-		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution",
-		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution/css",
-		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/old"
+		"/Users/edgardewit/Documents/CloudStation/coursera/github",
+		"/Users/edgardewit/Documents/CloudStation/coursera/github/module2-solution/css",
+		"/Users/edgardewit/Documents/CloudStation/coursera/github/module2-solution examples",
+		"/Users/edgardewit/Documents/CloudStation/coursera/github/site"
 	],
 	"file_history":
 	[
+		"/Users/edgardewit/Documents/CloudStation/coursera/github/module2-solution/index.html",
+		"/Users/edgardewit/Documents/CloudStation/coursera/github/module2-solution/css/styles.css",
 		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution/css/styles.css",
 		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution/index.html",
 		"/Users/edgardewit/Documents/CloudStation/coursera/coursera-github/module2-solution/test.html",
@@ -152,7 +181,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 		]
@@ -185,8 +214,70 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "module2-solution examples/css/solution.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"auto_name": "* {",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1185.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "module2-solution examples/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
