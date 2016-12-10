@@ -1,16 +1,16 @@
 body { 
 	padding-top: 70px; 
 }
-.col-md-12 {
-	background-color: grey
+h3 {
+	background-color: #008CBA;
+  text-align: center;
+  height: 50px;
+  color: #fff;
+  vertical-align: middle;
 }
-.col-sm-12 {
+p {
 	background-color: grey;
 }
-h3 {
-	text-align: center;
-}
-
 .navbar-brand {
   padding-top: 25px;
 }
